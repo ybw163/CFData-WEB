@@ -1,0 +1,16 @@
+# Build artifacts (根目录编译产物，注意：不能写成裸 cfdata，否则会误伤 cmd/cfdata 源码目录)
+/cfdata
+/cfdata.exe
+release_assets/
+
+# Delve 调试二进制 (__debug_bin.exe 等)
+__debug_bin*
+
+# Local WorkBuddy data (非源码，含本地记忆)
+.workbuddy/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
