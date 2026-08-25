@@ -1,5 +1,5 @@
 # CFData-Web
-[源项目作者newbie],项目CFData-WEB(https://github.com/PoemMisty/CFData-WEB),做精简,只保留核心
+[源项目作者newbie项目CFData-WEB](https://github.com/PoemMisty/CFData-WEB),做精简,只保留核心
 
 CFData-Web 是一个基于 Go 的 Cloudflare IP 测试与筛选工具，提供本地 Web 与 CLI 两种使用方式，支持官方 IP 段扫描、非标目标测试、测速、结果筛选、导出和 GitHub 上传。
 
